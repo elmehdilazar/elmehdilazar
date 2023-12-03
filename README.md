@@ -46,8 +46,11 @@
   <a href="https://www.linkedin.com/in/el-mehdi-lazar-6802a41b7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  <a href="https://www.fiverr.com/cristianomido">
+  <img src="https://img.shields.io/static/v1?message=Fiver&logo=fiver&label=&color=1dbf73&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="fiver logo"  /></a>
+  <a href="https://discord.com/channels/@mehdi_laz">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ###
