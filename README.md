@@ -1,4 +1,4 @@
-﻿<h2 align="left">Hi 👋! My name is el mehdi lazar and I'm a Software Engineer 🧑‍💻, from Earth 🌍</h2>
+﻿<h2 align="left">Hi 👋! My name is el mehdi lazar and I'm a Software Engineer 🧑‍💻, from Earth 🌍 </h2>
 
 ###
 
