@@ -43,7 +43,7 @@
 
 <div align="left">
   <a href="mailto:lazar.elmehdi@gmail.com"> 
-  <img src="https://www.google.com/gmail/about/static-2.0/imag….png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" height="35" alt="gmail logo"  />
+  <img src="https://w7.pngwing.com/pngs/134/987/png-transparent-gmail-application-logo-gmail-g-suite-google-logo-email-gmail-blue-angle-text-thumbnail.png" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/el-mehdi-lazar-6802a41b7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -53,7 +53,7 @@
    <a href="https://mostaql.com/u/mehdi_laz">
   <img src="https://mostaql.hsoubcdn.com/public/assets/images/custom/mostaql-logo-white.svg?id=dc639dfc13cb096309795e9d84ddd15c" height="35" alt="fiver logo"  /></a>
   <a href="https://www.fiverr.com/cristianomido">
-      <img src="https://www.aeres-evaluation.fr/wp-content/uploads/2021/11/Avis-Fiverr-1536x1023.jpg" height="35" alt="fiver logo"  /></a>
+      <img src="https://sg.fiverrcdn.com/press_release/1216/Press-Page%20-%201%20%283%29_press_image_1724683555.jpg" height="35" alt="fiver logo"  /></a>
 </a>
   <a href="https://discord.com/channels/@mehdi_laz">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
