@@ -43,15 +43,15 @@
 
 <div align="left">
   <a href="mailto:lazar.elmehdi@gmail.com"> 
-  <img src="https://khamsat.hsoubcdn.com/assets/images/logo-73045c76e830509d4dbe03ea6172d22f047c708fed5435e93ffd47f80ee5ffa4.png" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/el-mehdi-lazar-6802a41b7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-   <a href="https://www.fiverr.com/cristianomido](https://khamsat.com/user/devloper_12">
-  <img src="https://img.shields.io/static/v1?message=Fiver&logo=fiver&label=&color=1dbf73&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="fiver logo"  /></a>
-   <a href="https://www.fiverr.com/cristianomido">
-  <img src="https://img.shields.io/static/v1?message=Fiver&logo=fiver&label=&color=1dbf73&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="fiver logo"  /></a>
+   <a href="https://khamsat.com/user/devloper_12">
+  <img src="https://khamsat.hsoubcdn.com/assets/images/logo-73045c76e830509d4dbe03ea6172d22f047c708fed5435e93ffd47f80ee5ffa4.png" height="35" alt="gmail logo"  />
+   <a href="https://www.fiverr.com/cristianomido](https://mostaql.com/u/mehdi_laz">
+  <img src="https://mostaql.hsoubcdn.com/public/assets/images/custom/mostaql-logo-white.svg?id=dc639dfc13cb096309795e9d84ddd15c" height="35" alt="fiver logo"  /></a>
   <a href="https://www.fiverr.com/cristianomido">
   <img src="https://img.shields.io/static/v1?message=Fiver&logo=fiver&label=&color=1dbf73&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="fiver logo"  /></a>
   <a href="https://discord.com/channels/@mehdi_laz">
