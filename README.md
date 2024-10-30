@@ -11,12 +11,12 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"  /><br clear="both">
+<img align="left" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"  />
 
 ###
 ﻿
 <div align="center">
-  <h1 align="center">Contact me</h1><br>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -42,7 +42,8 @@
 
 ###
 
-<div align="left">
+<div align="center">
+    <h1 align="center">Contact me</h1><br>
   <a href="mailto:lazar.elmehdi@gmail.com"> 
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=d55143&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
