@@ -11,11 +11,12 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"  />
+<img align="left" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"  /><br clear="both">
 
 ###
-
+﻿
 <div align="left">
+  <h1 align="center">Contact me</h1><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
